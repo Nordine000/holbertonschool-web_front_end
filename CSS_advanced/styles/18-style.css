@@ -49,7 +49,7 @@ html {
     list-style: none;
     text-align: center;
 }
-.nav-item {
+.nav .nav-item {
     font-family: var(--nav-item-font-family);
     font-weight: var(--nav-item-font-weight);
     font-size: var(--nav-item-font-size);
@@ -57,12 +57,12 @@ html {
     display: var(--nav-item-display);
     margin: var(--nav-item-margin);
 }
-.nav-link {
+.nav .nav-link {
     display: block;
     padding: 0.8rem 1.6rem;
     color: var(--nav-item-link-hover);
 }
-.nav-link:hover {
+.nav .nav-link:hover {
     color: var(--nav-item-link-hover);
 }
 body {
