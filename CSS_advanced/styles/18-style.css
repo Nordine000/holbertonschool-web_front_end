@@ -59,11 +59,12 @@ html {
 }
 .nav .nav-link {
     display: block;
-    padding-top: 0.8rem;
-    padding-bottom: 0.8rem;
+    padding-left: 1.6rem;
+    padding-right: 1.6rem;
 }
 .nav .nav-link {
-    padding: 0.8rem 1.6rem;
+    padding-top: 0.8rem;
+    padding-bottom: 0.8rem;
 }
 .nav .nav-link:hover {
     color: var(--nav-item-link-hover);
