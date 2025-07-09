@@ -62,7 +62,7 @@ a[href]:active {
 .card-category,
 .section-tagline {
     color: var(--color-primary);
-    text-size-adjust: var(--font-family-base);
+    font-family: var(--font-family-base);
     text-transform: var(--section-tagline-transform);
     font-weight:var(--font-weight-bold)
 }
