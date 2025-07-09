@@ -57,7 +57,7 @@ html {
     display: var(--nav-item-display);
     margin: var(--nav-item-margin);
 }
-.nav .nav-link {
+.nav, .nav-link {
     display: block;
     padding: 0.8rem 1.6rem;
     color: var(--nav-item-link-hover);
